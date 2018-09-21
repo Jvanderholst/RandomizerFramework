@@ -1,0 +1,26 @@
+# To create additional feature in this solution we work with the following branches:
+
+1. Development
+2. Test
+3 Master
+
+You can create additional features by adding them to the development branch and then commit them. Then when all development is done and everything is
+committed your code will be reviewed. If it adheres to coding standards, changes will be committed to test and when tested throroughly, the features will go
+to production. So only work in the development branch and never commit to master. 
+
+#Coding language and standards
+
+This project needs to be created in .NET Core and adhere to the following guidelines:
+
+https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions
+
+#Test driven development
+
+Adhere to the following link for test-driven development:
+http://agiledata.org/essays/tdd.html
+It is expected for you to follow those guidelines
+
+#Issues
+Only work according to the above guidelines and only work in the issues in the issues section of this repository.
+
